@@ -1,0 +1,8 @@
+{
+  "name": "map-book-ionic",
+  "app_id": "bd43f5df",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
